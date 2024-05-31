@@ -1,0 +1,14 @@
+D:\Road to 2024\dotNet\cafe_management\cafe_management\bin\Debug\cafe_management.exe.config
+D:\Road to 2024\dotNet\cafe_management\cafe_management\bin\Debug\cafe_management.exe
+D:\Road to 2024\dotNet\cafe_management\cafe_management\bin\Debug\cafe_management.pdb
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.csproj.AssemblyReference.cache
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.Form1.resources
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.Properties.Resources.resources
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.csproj.GenerateResource.cache
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.csproj.CoreCompileInputs.cache
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.exe
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.pdb
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.GuestOrder.resources
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.UserOrder.resources
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.ItemsForm.resources
+D:\Road to 2024\dotNet\cafe_management\cafe_management\obj\Debug\cafe_management.UsersForm.resources
